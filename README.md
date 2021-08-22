@@ -19,17 +19,21 @@ https://colab.research.google.com/drive/1wokL6s54Cyu80UaDMbZYcfGg46tQp8k_?usp=sh
  <tr>
  <td>Row 2 Data Column 1</td>
  <td>Row 2 Data Column 2</td>
- <td>Row 1 Data Column 3</td>
- <td>Row 1 Data Column 4</td>
+ <td>Row 2 Data Column 3</td>
+ <td>Row 2 Data Column 4</td>
  </tr>
  </tr>
  <tr>
  <td>Row 3 Data Column 1</td>
  <td>Row 3 Data Column 2</td>
+ <td>Row 3 Data Column 3</td>
+ <td>Row 3 Data Column 4</td>
  </tr>
  </tr>
  <tr>
  <td>Row 4 Data Column 1</td>
  <td>Row 4 Data Column 2</td>
+ <td>Row 4 Data Column 3</td>
+ <td>Row 4 Data Column 4</td>
  </tr>
 </table>
