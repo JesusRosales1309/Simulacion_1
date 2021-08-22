@@ -14,11 +14,7 @@ https://colab.research.google.com/drive/1wokL6s54Cyu80UaDMbZYcfGg46tQp8k_?usp=sh
  <td>17/08/21</td>
  <td>Calculo de pi</td>
  <td>
-
-      "source": [
-        "<a href=\"https://colab.research.google.com/github/JesusRosales1309/Simulacion_1/blob/main/Calculo_de_pi.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
-  
+  <a href=\"https://colab.research.google.com/github/JesusRosales1309/Simulacion_1/blob/main/Calculo_de_pi.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
  </td>
  </tr>
  <tr>
