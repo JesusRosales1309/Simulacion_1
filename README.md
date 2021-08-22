@@ -13,7 +13,7 @@ https://colab.research.google.com/drive/1wokL6s54Cyu80UaDMbZYcfGg46tQp8k_?usp=sh
  <tr>
  <td>17/08/21</td>
  <td>Calculo de pi</td>
- <td><link rel="prev" href="http://stackoverflow.com/documentation/java/topics"></td>
+ <td><a href="https://github.com/JesusRosales1309/Simulacion_1/commit/d44882fc245f8ed7e2a393d5f0e77756bb4e6f1d" rel="external">Calculo de_pi.pdf</a></td>
  <td></td>
  </tr>
  <tr>
