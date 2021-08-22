@@ -5,7 +5,7 @@ https://colab.research.google.com/drive/1wokL6s54Cyu80UaDMbZYcfGg46tQp8k_?usp=sh
 
 <table>
  <tr>
- <th>Sesión 1</th>
+ <th>Sesión</th>
  <th>Tema</th>
  <th>PDF</th>
  <th>Link</th>
