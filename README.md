@@ -14,8 +14,10 @@ https://colab.research.google.com/drive/1wokL6s54Cyu80UaDMbZYcfGg46tQp8k_?usp=sh
  <td>17/08/21</td>
  <td>Calculo de pi</td>
  <td>
-  <a href=\"https://colab.research.google.com/github/JesusRosales1309/Simulacion_1/blob/main/Calculo_de_pi.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+  <a href="https://github.com/JesusRosales1309/Simulacion_1/blob/main/Calculo%20de%20%CF%80%20por%20simulaci%C3%B3n.pdf rel="external">Calculo de pi.pdf</a>
  </td>
+  <td>
+ </td>                                                                                                                                     
  </tr>
  <tr>
  <td>Row 2 Data Column 1</td>
