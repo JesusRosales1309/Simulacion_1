@@ -22,8 +22,8 @@ Aquí pondre mis trabajos hechos en simulación.
  </td>                                                                                                                                     
  </tr>
  <tr>
- <td>Row 2 Data Column 1</td>
- <td>Row 2 Data Column 2</td>
+ <td>23/08/21</td>
+ <td>Juego de volados</td>
  <td>Row 2 Data Column 3</td>
  <td>Row 2 Data Column 4</td>
  </tr>
