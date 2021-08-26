@@ -11,7 +11,7 @@ Aquí pondre mis trabajos hechos en simulación.
  <th>Link</th>
  </tr>
  <tr>
- <td>17/08/21</td>
+ <td>16/08/21</td>
  <td>Calculo de pi</td>
  <td>
   <a href="https://github.com/JesusRosales1309/Simulacion_1/blob/main/Calculo%20de%20%CF%80%20por%20simulaci%C3%B3n.pdf" rel="external">Calculo de pi.pdf</a>
