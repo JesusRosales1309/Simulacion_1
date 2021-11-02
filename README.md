@@ -57,7 +57,7 @@ Aquí pondre mis trabajos hechos en simulación.
   <a href="https://github.com/JesusRosales1309/Simulacion_1/blob/main/Calculo%20de%20%CF%80%20por%20simulaci%C3%B3n.pdf" rel="external">Calculo de pi.pdf</a>
  </td>
   <td>
-   <a href="https://colab.research.google.com/github/JesusRosales1309/Simulacion_1/blob/main/Calculo_de_pi.ipynb" target="_parent"><img src="https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667" alt="Open In Colab" data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg"></a>
+   <a href="https://colab.research.google.com/github/JesusRosales1309/Simulacion_1/blob/main/Lineas_de_espera.ipynb" target="_parent"><img src="https://camo.githubusercontent.com/52feade06f2fecbf006889a904d221e6a730c194/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667" alt="Open In Colab" data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg"></a>
   
  </td>                                                                                                                                     
  </tr>
